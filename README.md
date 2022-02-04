@@ -22,7 +22,7 @@
 <b>🤣 GDSC(Google Developer Student Clubs) '해커톤'
     <br>
   [줍깅]</b> <br>- 환경 보호를 위한 플로깅(Plogging) 어플 <br>
-  https://github.com/orgs/jupging/dashboard
+  https://github.com/orgs/jupging
 <br><br>
 </p>
 <hr>
