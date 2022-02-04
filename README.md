@@ -1,6 +1,3 @@
-
-<hr>
-<h3 align="center"><b>🔥 여러분 쓰릉합니다~~ 🔥</b></h3>
 <hr>
 <h3 align="center"><b>🏆 HACKATHON 🏆</b></h3>
 <p align="center">
