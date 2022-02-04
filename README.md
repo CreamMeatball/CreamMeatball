@@ -16,7 +16,7 @@
 <br><br>
 <b>😂 멋쟁이사자처럼 '단풍톤'
     <br>
-  [빌림]</b> <br>- 전공책/솔루션 공유 플랫폼 <br>
+  [빌림]<br>(🥇1등 수상)</b><br> <br>- 전공책/솔루션 공유 플랫폼 <br>
   https://github.com/ji-vvon/Likelion-Maplethon
 <br><br>
 <b>🤣 GDSC(Google Developer Student Clubs) '해커톤'
