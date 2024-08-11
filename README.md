@@ -1,6 +1,11 @@
 <hr>
 <h3 align="center"><b>🏆 HACKATHON 🏆</b></h3>
 <p align="center">
+<b>😂 멋쟁이사자처럼 '단풍톤'
+    <br>
+  [빌림]<br>(🥇1등 수상)</b> <br>- 전공책/솔루션 공유 플랫폼 <br>
+  https://github.com/ji-vvon/Likelion-Maplethon
+<br><br>
 <b>😀 멋쟁이사자처럼 '아이디어톤'
   <br>
   [우유마켓]</b>  <br>- 로컬 기반 식자재 공유/구매 플랫폼 <br>
@@ -10,11 +15,6 @@
   <br>
   [미니멀리즘]</b> <br>- 태그클라우드를 이용한 미니멀리즘 라이프 지원 플랫폼 <br>
   https://github.com/oereo/minimalism
-<br><br>
-<b>😂 멋쟁이사자처럼 '단풍톤'
-    <br>
-  [빌림]<br>(🥇1등 수상)</b> <br>- 전공책/솔루션 공유 플랫폼 <br>
-  https://github.com/ji-vvon/Likelion-Maplethon
 <br><br>
 <b>🤣 GDSC(Google Developer Student Clubs) '해커톤'
     <br>
